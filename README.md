@@ -1,4 +1,4 @@
-# Equipo 0X - Nombre del curso
+# Equipo 02 - Fundamentos de diseño
 ### Carrera de Ingeniería Informática / Industrial  
 **Universidad Peruana Cayetano Heredia**
 
