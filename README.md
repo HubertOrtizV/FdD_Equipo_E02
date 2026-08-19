@@ -29,11 +29,11 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 
 | Foto | Nombre | Rol | Intereses |
 |------|--------|-----|-----------|
-| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Ortiz Villegas Hubert Hernando** | Líder del equipo | Innovación social, sostenibilidad |
-| <img src="/Recursos/Imágenes/integrante2.png" width="90"/> | **Venegas Cartolin Alimer** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
-| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Rios Villar Juan de Dios** | Diseñador/a | Diseño de prototipos, creatividad aplicada |
-| <img src="/Recursos/Imágenes/integrante2.png" width="90"/> | **Stefani Magallanes** | Encargado/a de documentación | Comunicación científica, redacción técnica |
-| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Vargas Moreno Aldayer Pablo** | Programador/a - Modelador/a | Programación, análisis de datos, simulación |
+| <img src="/Recursos/Imágenes/Hubert.jpeg" width="90"/> | **Ortiz Villegas Hubert Hernando** | Líder del equipo | Innovación social, sostenibilidad |
+| <img src="/Recursos/Imágenes/Alimer.jpeg" width="90"/> | **Venegas Cartolin Alimer** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
+| <img src="/Recursos/Imágenes/Juan.jpeg" width="90"/> | **Rios Villar Juan de Dios** | Diseñador/a | Diseño de prototipos, creatividad aplicada |
+| <img src="/Recursos/Imágenes/Stefani.jpeg" width="90"/> | **Stefani Magallanes** | Encargado/a de documentación | Comunicación científica, redacción técnica |
+| <img src="/Recursos/Imágenes/Aldair.jpeg" width="90"/> | **Vargas Moreno Aldayer Pablo** | Programador/a - Modelador/a | Programación, análisis de datos, simulación |
 
 ---
 
