@@ -1,6 +1,6 @@
 # FdD_Equipo_E02
 ### Carrera de Ingeniería Informática / Industrial  
-**Universidad Peruana Cayetano Heredia.**
+**Universidad Peruana Cayetano Heredia**
 
 ---
 
