@@ -14,6 +14,7 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
   Como equipo nos enfocaremos en la meta 12.2, relacionada con la gestión sostenible
   y el uso eficiente de los recursos naturales, además analizaremos los hábitos de consumo
   y el uso innecesario de recursos como agua, energía y materiales.
+  
   <img src="/Recursos/Imágenes/ods12.png" width="100">
   
 - **ODS 11:** Ciudades y Comunidades Sostenibles:
@@ -21,6 +22,7 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
   Como equipo nos enfocaremos en la meta 11.6, relacionada con reducir el impacto ambiental negativo
   de las ciudades, así mismo consideramos la importancia de promover prácticas sostenibles en espacios
   urbanos y comunitarios.
+  
   <img src="/Recursos/Imágenes/ods11.png" width="100">
   
 - **ODS 7:** Energía Asequible y no Contaminante:
@@ -28,6 +30,7 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
   Como equipo Nos enfocaremos en la meta 7.3, relacionada con mejorar la eficiencia energética cuya
   problemática se relaciona con el uso poco eficiente de la energía en actividades y sistemas
   tecnológicos cotidianos.
+  
   <img src="/Recursos/Imágenes/ods7.png" width="100">
   
 
