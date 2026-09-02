@@ -49,19 +49,43 @@ Este equipo está pensado para realizar el riego de una manera más eficiente y 
 ---
 
 ## PRODUCTOS COMERCIALES
+---
+### Rachio 3 Smart Sprinkler Controller
+* **Descripción y funcionamiento:** Controlador de riego inteligente con IoT que ajusta o suspende el suministro de agua analizando variables climáticas en tiempo real (lluvia, humedad y radiación) para evitar el sobre-riego en áreas verdes urbanas [10].
+* **Sensores e instrumentación:**
+  * Puertos de entrada para sensores externos de lluvia (*rain sensor*) y sondas de humedad del suelo [10].
+  * Módulo de medición de caudal de agua por pulsos/ultrasónico (*Wireless Flow Meter*) [10].
+  * Sensores de telemetría meteorológica virtual vía enlace API/Wi-Fi (índice UV, precipitación y viento) [10].
+* **Materiales y componentes de hardware:**
+  * Carcasa de polímero ABS y policarbonato con protección para interiores o gabinete NEMA 3R para intemperie [10].
+  * Microcontrolador con transceptor inalámbrico Wi-Fi de doble banda (2.4 GHz y 5 GHz) [10].
+  * Terminales de conexión a presión de cobre/latón estañado para control de 8 o 16 electroválvulas solenoides (24 VAC) [10].
 
-### 1. Rachio 3 Smart Sprinkler Controller
+---
 
-Controlador de riego inteligente con **IoT** que ajusta o suspende el suministro de agua analizando variables climáticas en tiempo real, como lluvia, humedad y radiación, para evitar el sobre-riego en áreas verdes urbanas **(10)**.
+### Sense Home Energy Monitor
+* **Descripción y funcionamiento:** Monitor de telemetría para tableros eléctricos que muestrea corriente a 1 MHz y usa *machine learning* (NILM) para identificar el consumo específico de cada aparato, detectando consumos fantasma y pérdidas energéticas [11].
+* **Sensores e instrumentación:**
+  * 2 sensores de corriente de núcleo dividido (*split-core CT*) basados en inducción magnética hasta 200 A [11].
+  * Sensores de captación y referencia de voltaje de fase (120 V / 240 V) con tasa de muestreo analógico-digital a 1 MHz [11].
+* **Materiales y componentes de hardware:**
+  * Carcasa de policarbonato ignífugo de grado industrial resistente al calor para instalación en tablero [11].
+  * Procesador digital de señales (*DSP*) con arquitectura ARM para cómputo local de alta frecuencia [11].
+  * Módulo de conectividad Wi-Fi integrado en PCB de fibra de vidrio FR-4 [11].
 
-### 2. Sense Home Energy Monitor
+---
 
-Monitor de telemetría para tableros eléctricos que muestrea corriente a **1 MHz** y utiliza *machine learning* (NILM) para identificar el consumo específico de cada aparato, detectando consumos fantasma y pérdidas energéticas **(11)**.
-
-### 3. Phyn Plus Smart Water Assistant
-
-Asistente mecatrónico para la tubería matriz que mide fluctuaciones de presión **240 veces por segundo**. Detecta fugas silenciosas o roturas y acciona una electroválvula de corte automático para prevenir desperdicios e inundaciones **(12)**.
-
+### Phyn Plus Smart Water Assistant
+* **Descripción y funcionamiento:** Asistente mecatrónico para la tubería matriz que mide fluctuaciones de presión 240 veces por segundo; detecta fugas silenciosas o roturas y acciona una electroválvula de corte automático para prevenir desperdicios e inundaciones [12].
+* **Sensores e instrumentación:**
+  * Transductor / sensor ultrasónico de presión de alta definición con muestreo continuo a 240 Hz [12].
+  * Sensor térmico integrado para monitoreo de temperatura de fluido y prevención de congelamiento [12].
+  * Sensor de flujo hídrico para calibración volumétrica continua [12].
+* **Materiales y componentes de hardware:**
+  * Cuerpo hidráulico en latón macizo sin plomo (*lead-free brass*) con rosca macho NPT de 1 pulgada [12].
+  * Electroválvula de bola motorizada con actuador electromecánico de corte hermético [12].
+  * Cubierta exterior con certificación IP55 / NEMA 3R resistente al agua y polvo [12].
+  * Microcontrolador para cómputo en el borde (*edge computing*) y transceptor Wi-Fi integrado [12].
 ---
 
 # REFERENCIAS BIBLIOGRÁFICAS
