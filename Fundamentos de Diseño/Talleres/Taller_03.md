@@ -53,6 +53,8 @@ Este equipo está pensado para realizar el riego de una manera más eficiente y 
 ### Rachio 3 Smart Sprinkler Controller
 <img width="300" height="250" alt="RACHIO" src="https://github.com/user-attachments/assets/142cdc9b-9af2-42a7-a372-af747fbc3f8e" />
 
+*Figura 1: Rachio 3 Smart Sprinkler Controller. Fuente: Tomado de [10].*
+
 * **Descripción y funcionamiento:** Controlador de riego inteligente con IoT que ajusta o suspende el suministro de agua analizando variables climáticas en tiempo real (lluvia, humedad y radiación) para evitar el sobre-riego en áreas verdes urbanas [10].
 * **Sensores e instrumentación:**
   * Puertos de entrada para sensores externos de lluvia (*rain sensor*) y sondas de humedad del suelo [10].
@@ -68,6 +70,8 @@ Este equipo está pensado para realizar el riego de una manera más eficiente y 
 ### Sense Home Energy Monitor
 <img width="300" height="250" alt="sense monitor" src="https://github.com/user-attachments/assets/b734b2c7-6514-49a0-8bf4-88a6a4ccf91f" />
 
+*Figura 2: Sense Home Energy Monitor. Fuente: Tomado de Sense Labs, Inc. [11].*
+
 * **Descripción y funcionamiento:** Monitor de telemetría para tableros eléctricos que muestrea corriente a 1 MHz y usa *machine learning* (NILM) para identificar el consumo específico de cada aparato, detectando consumos fantasma y pérdidas energéticas [11].
 * **Sensores e instrumentación:**
   * 2 sensores de corriente de núcleo dividido (*split-core CT*) basados en inducción magnética hasta 200 A [11].
@@ -81,6 +85,8 @@ Este equipo está pensado para realizar el riego de una manera más eficiente y 
 
 ### Phyn Plus Smart Water Assistant
 <img width="300" height="300" alt="pyn" src="https://github.com/user-attachments/assets/da35addf-66b3-45f9-976c-3c8cb99db601" />
+
+*Figura 3: Phyn Plus Smart Water Assistant. Fuente: Tomado de Phyn LLC [12].*
 
 * **Descripción y funcionamiento:** Asistente mecatrónico para la tubería matriz que mide fluctuaciones de presión 240 veces por segundo; detecta fugas silenciosas o roturas y acciona una electroválvula de corte automático para prevenir desperdicios e inundaciones [12].
 * **Sensores e instrumentación:**
