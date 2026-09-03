@@ -9,35 +9,17 @@
 
 El estudio analiza las diferencias entre los hogares mexicanos respecto al acceso y uso de los servicios energéticos. Aunque la mayoría cuenta con electricidad, existen desigualdades según las condiciones económicas y sociales. Se concluye que tener electricidad no garantiza un acceso adecuado a todos los servicios de energía, por lo que se requieren políticas energéticas sostenibles e inclusivas (1).
 
-### Figura 1. Acceso a los servicios de energía
-
-![Acceso a los servicios de energía](articulo1.png)
-
-**Fuente:** Adaptado de García Ochoa y Bracamonte Sierra (2019). 
-
 ---
 
 ## 2. Consumo responsable y medio ambiente: una revisión sistemática desde la educación y la conciencia social
 
 El artículo analiza la importancia del consumo responsable para la protección del medio ambiente. Mediante una revisión sistemática de 34 estudios, destaca que la educación y la conciencia ambiental ayudan a promover hábitos sostenibles, reducir la contaminación y fomentar decisiones de consumo más éticas. Concluye que la participación de personas, empresas e instituciones es fundamental para lograr un desarrollo sostenible (2).
 
-### Figura 2. Consumo responsable y protección del medio ambiente
-
-![Consumo responsable y medio ambiente](https://stakeholders.com.pe/wp-content/uploads/2022/03/naturaleza-energias-renovables-23-2148574981.jpg)
-
-**Fuente:** Adaptado de Stakeholders (2022).
-
 ---
 
 ## 3. Agricultura inteligente mediante IoT para riego automatizado, eficiencia hídrica y energética
 
 Este estudio presenta un innovador sistema de agricultura inteligente que integra tecnologías de Internet de las Cosas (IoT), algoritmos predictivos y mecanismos de control automatizados para optimizar el riego y mejorar la eficiencia de los recursos. La solución propuesta aprovecha sensores de humedad, temperatura y humedad del suelo conectados a un microcontrolador basado en Arduino para automatizar el riego en función de datos en tiempo real (3).
-
-### Figura 3. Agricultura inteligente mediante IoT
-
-![Agricultura inteligente mediante IoT](articulo3.png)
-
-**Fuente:** Adaptado de ECOMU (2023).
 
 ---
 
@@ -64,12 +46,6 @@ Este estudio presenta un innovador sistema de agricultura inteligente que integr
 | **Relación con la sostenibilidad** | Energética y social | Ambiental y social | Hídrica, energética y agrícola |
 
 ---
-
-# CONCLUSIÓN DEL CUADRO COMPARATIVO
-
-Los tres artículos científicos están relacionados con el **desarrollo sostenible**, pero abordan diferentes problemáticas. El primer artículo se enfoca en el **acceso equitativo a los servicios de energía**; el segundo, en la importancia del **consumo responsable y la conciencia ambiental**; y el tercero, en la aplicación de **tecnologías IoT para mejorar la eficiencia del riego agrícola**.
-
-En conjunto, los artículos muestran que la sostenibilidad puede abordarse mediante **políticas inclusivas, educación ambiental y soluciones tecnológicas**, buscando un uso más eficiente y responsable de los recursos.
 
 ## TESIS
 
