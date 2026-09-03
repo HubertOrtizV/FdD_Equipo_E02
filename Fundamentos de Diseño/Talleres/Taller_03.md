@@ -12,7 +12,7 @@ El artículo analiza la importancia del consumo responsable para la protección 
 
 ### 3. Agricultura inteligente mediante IoT para riego automatizado, eficiencia hídrica y energética.
 
-Este estudio presenta un innovador sistema de agricultura inteligente que integra tecnologías de Internet de las Cosas (IoT), algoritmos predictivos y mecanismos de control automatizados para optimizar el riego y mejorar la eficiencia de los recursos. La solución propuesta aprovecha sensores de humedad, temperatura y humedad del suelo conectados a un microcontrolador basado en Arduino para automatizar el riego en función de datos en tiempo real.  **(3)**.
+Este estudio presenta un innovador sistema de agricultura inteligente que integra tecnologías de Internet de las Cosas (IoT), algoritmos predictivos y mecanismos de control automatizados para optimizar el riego y mejorar la eficiencia de los recursos. La solución propuesta aprovecha sensores de humedad, temperatura y humedad del suelo conectados a un microcontrolador basado en Arduino para automatizar el riego en función de datos en tiempo real **(3)**.
 
 ---
 
