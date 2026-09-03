@@ -1,17 +1,14 @@
 # Búsqueda de Información Científica, Patentes, Tesis y Productos Comerciales
-
-# ARTÍCULOS CIENTÍFICOS
 ---
-## 1. Acceso a los servicios de energía. Una crítica a la Agenda 2030 de México
+# ARTÍCULOS CIENTÍFICOS
 
+## 1. Acceso a los servicios de energía. Una crítica a la Agenda 2030 de México
 El estudio analiza las diferencias entre los hogares mexicanos respecto al acceso y uso de los servicios energéticos. Aunque la mayoría cuenta con electricidad, existen desigualdades según las condiciones económicas y sociales. Se concluye que tener electricidad no garantiza un acceso adecuado a todos los servicios de energía, por lo que se requieren políticas energéticas sostenibles e inclusivas (1).
 
 ## 2. Consumo responsable y medio ambiente: una revisión sistemática desde la educación y la conciencia social
-
 El artículo analiza la importancia del consumo responsable para la protección del medio ambiente. Mediante una revisión sistemática de 34 estudios, destaca que la educación y la conciencia ambiental ayudan a promover hábitos sostenibles, reducir la contaminación y fomentar decisiones de consumo más éticas. Concluye que la participación de personas, empresas e instituciones es fundamental para lograr un desarrollo sostenible (2).
 
 ## 3. Agricultura inteligente mediante IoT para riego automatizado, eficiencia hídrica y energética
-
 Este estudio presenta un innovador sistema de agricultura inteligente que integra tecnologías de Internet de las Cosas (IoT), algoritmos predictivos y mecanismos de control automatizados para optimizar el riego y mejorar la eficiencia de los recursos. La solución propuesta aprovecha sensores de humedad, temperatura y humedad del suelo conectados a un microcontrolador basado en Arduino para automatizar el riego en función de datos en tiempo real (3).
 
 ### CUADRO COMPARATIVO DE LOS ARTÍCULOS CIENTÍFICOS
@@ -33,9 +30,9 @@ Este estudio presenta un innovador sistema de agricultura inteligente que integr
 | **Principales variables** | Electricidad, servicios energéticos y condiciones socioeconómicas | Educación, conciencia, consumo y contaminación | Humedad, temperatura y humedad del suelo |
 | **Resultado esperado** | Mejorar el acceso equitativo a los servicios energéticos | Promover hábitos de consumo sostenibles | Optimizar el riego y reducir el uso innecesario de recursos |
 | **Relación con la sostenibilidad** | Energética y social | Ambiental y social | Hídrica, energética y agrícola |
-
-## TESIS
 ---
+## TESIS
+
 ### 1. Factores clave para transitar hacia una gestión integral de los residuos sólidos: análisis de la gestión de residuos en la Provincia de Lima (Perú), en la región Flandes (Bélgica) y en los casos locales de éxito de Miraflores y Amberes
 
 Esta tesis analiza cómo transitar de un sistema tradicional de manejo de basura hacia una **Gestión Integral de Residuos Sólidos (GIRS)** enfocada en la reducción y el reciclaje, comparando la Provincia de Lima (caso Miraflores) con la región de Flandes en Bélgica (caso Amberes). El estudio concluye que para lograr una gestión sostenible se requieren factores clave como leyes claras con fiscalización constante, programas de segregación en la fuente, formalización de recicladores informales, educación ambiental continua y la cooperación entre las autoridades locales y la ciudadanía **(4)**.
@@ -54,9 +51,9 @@ Esta tesis propone la implementación de un sistema de submedición eléctrica b
 | **1** | Salazar Toledo, Arturo Italo. *Eficiencia hídrica en el mantenimiento de áreas verdes públicas en zonas urbanas desérticas: el caso del distrito de San Borja, Lima* [4] | Tesis | Aporta información sobre cómo mejorar el uso del agua en el riego de áreas verdes urbanas de Lima, sirviendo como antecedente para nuestro sistema de riego automatizado y de monitoreo de humedad. | Analiza el aprovechamiento del agua utilizada para el riego de áreas verdes en San Borja. Considera las falencias en el manejo del recurso hídrico, los métodos de riego, la cobertura vegetal y la sostenibilidad urbana. | Consumo/uso de agua, eficiencia hídrica, métodos de riego, cobertura vegetal, área verde, frecuencia de riego. |
 | **2** | Diaz Ruiz, Valeria Anahís. *Thinkblue: Contenedor de aguas residuales domésticas para la optimización y el consumo responsable del agua en los hogares de Lima Metropolitana* [5] | Tesis | El enfoque de reutilización y consumo responsable del agua, que puede complementar nuestro sistema mediante el aprovechamiento de agua para el riego de áreas verdes. | Propone un contenedor para reutilizar aguas residuales en el baño, buscando reducir el desperdicio y promover el uso responsable del agua en hogares de Lima Metropolitana. | Consumo de agua, volumen de agua reutilizada, desperdicio de agua, reutilización de aguas residuales, hábitos de consumo. |
 | **3** | Sánchez Sánchez, Christian Julián. *Aplicación de las TIC para la mejora de la eficiencia energética en la pequeña y mediana empresa* [6] | Tesis | El uso de TIC para monitorear el consumo energético, aplicable al control de bombas, electroválvulas y otros componentes eléctricos de nuestro sistema de riego. | Describe un sistema de submedición eléctrica remota que permite conocer el consumo de energía en diferentes áreas y equipos. Busca detectar desperdicios y mejorar la eficiencia energética. | Consumo de energía eléctrica (kWh), potencia eléctrica, costo de energía, consumo por equipo, eficiencia energética, tiempo de funcionamiento. |
-                              
+---                              
 ## PATENTES
----
+
 ### 1. Sistema y método para optimizar la eficiencia energética del sistema del edificio para el nivel objetivo de consumo energético
 <p align="center">
   <img src="/Recursos/Imágenes/patente1.jpg" width="500">
@@ -111,9 +108,9 @@ Este equipo está pensado para realizar el riego de una manera más eficiente y 
 | **Sistema y método para optimizar la eficiencia energética del sistema del edificio (7)** | Aborda el consumo innecesario de energía mediante el control y distribución de la energía según las necesidades del sistema. | **Optimización del consumo energético.** |
 | **Método estadístico para el consumo agrícola de agua basado en la conversión de electricidad a agua (8)** | Permite relacionar el consumo eléctrico con la cantidad de agua utilizada durante el riego y considera factores ambientales. | **Monitoreo del consumo de agua y energía.** |
 | **Equipos de riego ensamblados y ahorradores de energía de ingeniería hidráulica (9)** | Busca mejorar el riego mediante el control de variables como la temperatura y presión del agua. | **Control de las condiciones del riego.** |
-
-## PRODUCTOS COMERCIALES
 ---
+## PRODUCTOS COMERCIALES
+
 ### Rachio 3 Smart Sprinkler Controller
 <img width="300" height="250" alt="RACHIO" src="https://github.com/user-attachments/assets/142cdc9b-9af2-42a7-a372-af747fbc3f8e" />
 
@@ -158,7 +155,6 @@ Este equipo está pensado para realizar el riego de una manera más eficiente y 
   * Electroválvula de bola motorizada con actuador electromecánico de corte hermético [12].
   * Cubierta exterior con certificación IP55 / NEMA 3R resistente al agua y polvo [12].
   * Microcontrolador para cómputo en el borde (*edge computing*) y transceptor Wi-Fi integrado [12].
----
 ### Matriz de antecedentes: Productos Comerciales
 
 | N.° | Referencia | Tipo de documento | ¿En qué aporta a nuestro proyecto? | Información clave e importante | Valores de medición / variables |
