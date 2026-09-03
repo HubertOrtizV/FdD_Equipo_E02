@@ -1,14 +1,14 @@
 # Búsqueda de Información Científica, Patentes, Tesis y Productos Comerciales
 ---
-# ARTÍCULOS CIENTÍFICOS
+# 1. ARTÍCULOS CIENTÍFICOS
 
-## 1. Acceso a los servicios de energía. Una crítica a la Agenda 2030 de México
+## 1.1 Acceso a los servicios de energía. Una crítica a la Agenda 2030 de México
 El estudio analiza las diferencias entre los hogares mexicanos respecto al acceso y uso de los servicios energéticos. Aunque la mayoría cuenta con electricidad, existen desigualdades según las condiciones económicas y sociales. Se concluye que tener electricidad no garantiza un acceso adecuado a todos los servicios de energía, por lo que se requieren políticas energéticas sostenibles e inclusivas (1).
 
-## 2. Consumo responsable y medio ambiente: una revisión sistemática desde la educación y la conciencia social
+## 1.2. Consumo responsable y medio ambiente: una revisión sistemática desde la educación y la conciencia social
 El artículo analiza la importancia del consumo responsable para la protección del medio ambiente. Mediante una revisión sistemática de 34 estudios, destaca que la educación y la conciencia ambiental ayudan a promover hábitos sostenibles, reducir la contaminación y fomentar decisiones de consumo más éticas. Concluye que la participación de personas, empresas e instituciones es fundamental para lograr un desarrollo sostenible (2).
 
-## 3. Agricultura inteligente mediante IoT para riego automatizado, eficiencia hídrica y energética
+## 1.3. Agricultura inteligente mediante IoT para riego automatizado, eficiencia hídrica y energética
 Este estudio presenta un innovador sistema de agricultura inteligente que integra tecnologías de Internet de las Cosas (IoT), algoritmos predictivos y mecanismos de control automatizados para optimizar el riego y mejorar la eficiencia de los recursos. La solución propuesta aprovecha sensores de humedad, temperatura y humedad del suelo conectados a un microcontrolador basado en Arduino para automatizar el riego en función de datos en tiempo real (3).
 
 ### CUADRO COMPARATIVO DE LOS ARTÍCULOS CIENTÍFICOS
@@ -31,17 +31,17 @@ Este estudio presenta un innovador sistema de agricultura inteligente que integr
 | **Resultado esperado** | Mejorar el acceso equitativo a los servicios energéticos | Promover hábitos de consumo sostenibles | Optimizar el riego y reducir el uso innecesario de recursos |
 | **Relación con la sostenibilidad** | Energética y social | Ambiental y social | Hídrica, energética y agrícola |
 ---
-## TESIS
+## 2. TESIS
 
-### 1. Factores clave para transitar hacia una gestión integral de los residuos sólidos: análisis de la gestión de residuos en la Provincia de Lima (Perú), en la región Flandes (Bélgica) y en los casos locales de éxito de Miraflores y Amberes
+### 2.1. Factores clave para transitar hacia una gestión integral de los residuos sólidos: análisis de la gestión de residuos en la Provincia de Lima (Perú), en la región Flandes (Bélgica) y en los casos locales de éxito de Miraflores y Amberes
 
 Esta tesis analiza cómo transitar de un sistema tradicional de manejo de basura hacia una **Gestión Integral de Residuos Sólidos (GIRS)** enfocada en la reducción y el reciclaje, comparando la Provincia de Lima (caso Miraflores) con la región de Flandes en Bélgica (caso Amberes). El estudio concluye que para lograr una gestión sostenible se requieren factores clave como leyes claras con fiscalización constante, programas de segregación en la fuente, formalización de recicladores informales, educación ambiental continua y la cooperación entre las autoridades locales y la ciudadanía **(4)**.
 
-### 2. Thinkblue: Contenedor de aguas residuales domésticas para la optimización y el consumo responsable del agua en los hogares de Lima Metropolitana
+### 2.2. Thinkblue: Contenedor de aguas residuales domésticas para la optimización y el consumo responsable del agua en los hogares de Lima Metropolitana
 
 Este proyecto propone un contenedor de diseño industrial denominado **Thinkblue**, destinado al reuso y recolección de aguas residuales domésticas, como las del baño o lavadero, en los hogares de Lima Metropolitana. Su objetivo principal es optimizar el consumo de agua potable y fomentar hábitos de consumo responsable mediante una solución de diseño que integra aspectos funcionales, emocionales y socioambientales para facilitar su adopción cotidiana en las viviendas **(5)**.
 
-### 3. Aplicación de las TIC para la mejora de la eficiencia energética en la pequeña y mediana empresa
+### 3.3. Aplicación de las TIC para la mejora de la eficiencia energética en la pequeña y mediana empresa
 
 Esta tesis propone la implementación de un sistema de submedición eléctrica basado en **Tecnologías de la Información y Comunicación (TIC)** para monitorear el consumo de energía en pequeñas y medianas empresas (PyMEs). El proyecto busca registrar y analizar los consumos en puntos críticos de la instalación en tiempo real, permitiendo identificar ineficiencias, reducir costos operativos y optimizar el uso de la energía para mejorar la competitividad y sostenibilidad de las empresas **(6)**.
 
@@ -52,9 +52,9 @@ Esta tesis propone la implementación de un sistema de submedición eléctrica b
 | **2** | Diaz Ruiz, Valeria Anahís. *Thinkblue: Contenedor de aguas residuales domésticas para la optimización y el consumo responsable del agua en los hogares de Lima Metropolitana* [5] | Tesis | El enfoque de reutilización y consumo responsable del agua, que puede complementar nuestro sistema mediante el aprovechamiento de agua para el riego de áreas verdes. | Propone un contenedor para reutilizar aguas residuales en el baño, buscando reducir el desperdicio y promover el uso responsable del agua en hogares de Lima Metropolitana. | Consumo de agua, volumen de agua reutilizada, desperdicio de agua, reutilización de aguas residuales, hábitos de consumo. |
 | **3** | Sánchez Sánchez, Christian Julián. *Aplicación de las TIC para la mejora de la eficiencia energética en la pequeña y mediana empresa* [6] | Tesis | El uso de TIC para monitorear el consumo energético, aplicable al control de bombas, electroválvulas y otros componentes eléctricos de nuestro sistema de riego. | Describe un sistema de submedición eléctrica remota que permite conocer el consumo de energía en diferentes áreas y equipos. Busca detectar desperdicios y mejorar la eficiencia energética. | Consumo de energía eléctrica (kWh), potencia eléctrica, costo de energía, consumo por equipo, eficiencia energética, tiempo de funcionamiento. |
 ---                              
-## PATENTES
+## 3. PATENTES
 
-### 1. Sistema y método para optimizar la eficiencia energética del sistema del edificio para el nivel objetivo de consumo energético
+### 3.1. Sistema y método para optimizar la eficiencia energética del sistema del edificio para el nivel objetivo de consumo energético
 <p align="center">
   <img src="/Recursos/Imágenes/patente1.jpg" width="500">
 </p>
@@ -67,7 +67,7 @@ Esta tesis propone la implementación de un sistema de submedición eléctrica b
 
 Este sistema busca disminuir el consumo de energía dentro de un edificio, principalmente en la iluminación. Para lograrlo, distribuye la energía disponible entre las diferentes fuentes de luz considerando cuánto necesita cada ambiente y la prioridad que tiene. Además, mediante un controlador se puede regular automáticamente la iluminación, evitando consumos innecesarios sin dejar de cubrir las necesidades de cada espacio **(7)**.
 
-### 2. Método estadístico para el consumo agrícola de agua basado en la conversión de electricidad a agua
+### 3.2. Método estadístico para el consumo agrícola de agua basado en la conversión de electricidad a agua
 <p align="center">
   <img src="/Recursos/Imágenes/patente 2.png" width="500">
 </p>
@@ -79,7 +79,7 @@ Este sistema busca disminuir el consumo de energía dentro de un edificio, princ
 
 Este método permite conocer aproximadamente cuánta agua se utiliza durante el riego agrícola tomando como referencia el consumo eléctrico del sistema. También considera algunos factores ambientales que pueden influir en la cantidad de agua utilizada. Los datos obtenidos se pueden enviar y analizar en tiempo real, ayudando a controlar mejor el riego y a utilizar únicamente el agua necesaria, reduciendo así el desperdicio de este recurso **(8)**.
 
-### 3. Equipos de riego ensamblados y ahorradores de energía de ingeniería hidráulica
+### 3.3. Equipos de riego ensamblados y ahorradores de energía de ingeniería hidráulica
 <p align="center">
   <img src="/Recursos/Imágenes/patente3.png" width="500">
 </p>
@@ -109,9 +109,9 @@ Este equipo está pensado para realizar el riego de una manera más eficiente y 
 | **Método estadístico para el consumo agrícola de agua basado en la conversión de electricidad a agua (8)** | Permite relacionar el consumo eléctrico con la cantidad de agua utilizada durante el riego y considera factores ambientales. | **Monitoreo del consumo de agua y energía.** |
 | **Equipos de riego ensamblados y ahorradores de energía de ingeniería hidráulica (9)** | Busca mejorar el riego mediante el control de variables como la temperatura y presión del agua. | **Control de las condiciones del riego.** |
 ---
-## PRODUCTOS COMERCIALES
+## 4. PRODUCTOS COMERCIALES
 
-### Rachio 3 Smart Sprinkler Controller
+### 4.1 Rachio 3 Smart Sprinkler Controller
 <img width="300" height="250" alt="RACHIO" src="https://github.com/user-attachments/assets/142cdc9b-9af2-42a7-a372-af747fbc3f8e" />
 
 *Figura 1: Rachio 3 Smart Sprinkler Controller. Fuente: Tomado de [10].*
@@ -126,7 +126,7 @@ Este equipo está pensado para realizar el riego de una manera más eficiente y 
   * Microcontrolador con transceptor inalámbrico Wi-Fi de doble banda (2.4 GHz y 5 GHz) [10].
   * Terminales de conexión a presión de cobre/latón estañado para control de 8 o 16 electroválvulas solenoides (24 VAC) [10].
 
-### Sense Home Energy Monitor
+### 4.2 Sense Home Energy Monitor
 <img width="300" height="250" alt="sense monitor" src="https://github.com/user-attachments/assets/b734b2c7-6514-49a0-8bf4-88a6a4ccf91f" />
 
 *Figura 2: Sense Home Energy Monitor. Fuente: Tomado de Sense Labs, Inc. [11].*
@@ -140,7 +140,7 @@ Este equipo está pensado para realizar el riego de una manera más eficiente y 
   * Procesador digital de señales (*DSP*) con arquitectura ARM para cómputo local de alta frecuencia [11].
   * Módulo de conectividad Wi-Fi integrado en PCB de fibra de vidrio FR-4 [11].
 
-### Phyn Plus Smart Water Assistant
+### 4.3 Phyn Plus Smart Water Assistant
 <img width="300" height="300" alt="pyn" src="https://github.com/user-attachments/assets/da35addf-66b3-45f9-976c-3c8cb99db601" />
 
 *Figura 3: Phyn Plus Smart Water Assistant. Fuente: Tomado de Phyn LLC [12].*
