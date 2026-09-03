@@ -1,20 +1,68 @@
 # Búsqueda de Información Científica, Patentes, Tesis y Productos Comerciales
 
-## ARTÍCULOS CIENTÍFICOS
-
-### 1. Acceso a los servicios de energía. Una crítica a la Agenda 2030 de México
-
-El estudio analiza las diferencias entre los hogares mexicanos respecto al acceso y uso de los servicios energéticos. Aunque la mayoría cuenta con electricidad, existen desigualdades según las condiciones económicas y sociales. Se concluye que tener electricidad no garantiza un acceso adecuado a todos los servicios de energía, por lo que se requieren políticas energéticas sostenibles e inclusivas **(1)**.
-
-### 2. Consumo responsable y medio ambiente: una revisión sistemática desde la educación y la conciencia social
-
-El artículo analiza la importancia del consumo responsable para la protección del medio ambiente. Mediante una revisión sistemática de 34 estudios, destaca que la educación y la conciencia ambiental ayudan a promover hábitos sostenibles, reducir la contaminación y fomentar decisiones de consumo más éticas. Concluye que la participación de personas, empresas e instituciones es fundamental para lograr un desarrollo sostenible **(2)**.
-
-### 3. Agricultura inteligente mediante IoT para riego automatizado, eficiencia hídrica y energética.
-
-Este estudio presenta un innovador sistema de agricultura inteligente que integra tecnologías de Internet de las Cosas (IoT), algoritmos predictivos y mecanismos de control automatizados para optimizar el riego y mejorar la eficiencia de los recursos. La solución propuesta aprovecha sensores de humedad, temperatura y humedad del suelo conectados a un microcontrolador basado en Arduino para automatizar el riego en función de datos en tiempo real **(3)**.
+# ARTÍCULOS CIENTÍFICOS
 
 ---
+
+## 1. Acceso a los servicios de energía. Una crítica a la Agenda 2030 de México
+
+El estudio analiza las diferencias entre los hogares mexicanos respecto al acceso y uso de los servicios energéticos. Aunque la mayoría cuenta con electricidad, existen desigualdades según las condiciones económicas y sociales. Se concluye que tener electricidad no garantiza un acceso adecuado a todos los servicios de energía, por lo que se requieren políticas energéticas sostenibles e inclusivas (1).
+
+### Imagen representativa
+
+![Acceso a los servicios de energía](articulo1.png)
+
+---
+
+## 2. Consumo responsable y medio ambiente: una revisión sistemática desde la educación y la conciencia social
+
+El artículo analiza la importancia del consumo responsable para la protección del medio ambiente. Mediante una revisión sistemática de **34 estudios**, destaca que la educación y la conciencia ambiental ayudan a promover hábitos sostenibles, reducir la contaminación y fomentar decisiones de consumo más éticas. Concluye que la participación de personas, empresas e instituciones es fundamental para lograr un desarrollo sostenible (2).
+
+### Imagen representativa
+
+![Consumo responsable y medio ambiente](articulo2.png)
+
+---
+
+## 3. Agricultura inteligente mediante IoT para riego automatizado, eficiencia hídrica y energética
+
+Este estudio presenta un innovador sistema de agricultura inteligente que integra tecnologías de **Internet de las Cosas (IoT)**, algoritmos predictivos y mecanismos de control automatizados para optimizar el riego y mejorar la eficiencia de los recursos. La solución propuesta aprovecha sensores de humedad, temperatura y humedad del suelo conectados a un microcontrolador basado en **Arduino** para automatizar el riego en función de datos en tiempo real (3).
+
+### Imagen representativa
+
+![Agricultura inteligente mediante IoT](articulo3.png)
+
+---
+
+# CUADRO COMPARATIVO DE ARTÍCULOS CIENTÍFICOS
+
+| Artículo científico | ¿Qué tema? | ¿Qué aporta? | Variables | Rangos / Valores |
+|---|---|---|---|---|
+| **Acceso a los servicios de energía. Una crítica a la Agenda 2030 de México (1)** | Acceso y uso de los servicios energéticos en hogares, considerando desigualdades económicas y sociales. | Analiza las diferencias en el acceso a la energía y demuestra que disponer de electricidad no garantiza el acceso adecuado a todos los servicios energéticos. Propone la necesidad de políticas energéticas sostenibles e inclusivas. | Acceso a electricidad, uso de servicios energéticos, condiciones económicas y condiciones sociales. | Presencia o ausencia de electricidad, nivel de acceso a servicios energéticos y condiciones socioeconómicas de los hogares. |
+| **Consumo responsable y medio ambiente: una revisión sistemática desde la educación y la conciencia social (2)** | Consumo responsable, educación ambiental y conciencia social para la protección del medio ambiente. | Identifica cómo la educación y la conciencia ambiental favorecen hábitos sostenibles, reducen la contaminación y promueven decisiones de consumo más responsables. | Educación ambiental, conciencia social, hábitos de consumo, contaminación y participación social. | Revisión sistemática de **34 estudios**; los resultados se analizan según las prácticas y comportamientos relacionados con el consumo responsable. |
+| **Agricultura inteligente mediante IoT para riego automatizado, eficiencia hídrica y energética (3)** | Agricultura inteligente, Internet de las Cosas (IoT) y automatización del riego. | Propone un sistema automatizado que utiliza sensores y Arduino para controlar el riego en función de las condiciones del suelo y del ambiente, buscando mejorar la eficiencia hídrica y energética. | Humedad del suelo, humedad ambiental, temperatura, consumo de agua y control del riego. | Datos obtenidos mediante sensores **en tiempo real**; los valores dependen de las condiciones de humedad y temperatura del cultivo. |
+
+---
+
+## Comparación general
+
+| Aspecto | Artículo 1 | Artículo 2 | Artículo 3 |
+|---|---|---|---|
+| **Enfoque principal** | Acceso y uso de la energía | Consumo responsable y medio ambiente | Agricultura inteligente |
+| **Problema abordado** | Desigualdad en el acceso a los servicios energéticos | Prácticas de consumo que afectan al ambiente | Uso ineficiente del agua y la energía en el riego |
+| **Solución / aporte** | Políticas energéticas sostenibles e inclusivas | Educación y conciencia ambiental | Automatización mediante IoT y sensores |
+| **Tecnología utilizada** | No especificada | No especificada | IoT, sensores y Arduino |
+| **Principales variables** | Electricidad, servicios energéticos y condiciones socioeconómicas | Educación, conciencia, consumo y contaminación | Humedad, temperatura y humedad del suelo |
+| **Resultado esperado** | Mejorar el acceso equitativo a los servicios energéticos | Promover hábitos de consumo sostenibles | Optimizar el riego y reducir el uso innecesario de recursos |
+| **Relación con la sostenibilidad** | Energética y social | Ambiental y social | Hídrica, energética y agrícola |
+
+---
+
+# CONCLUSIÓN DEL CUADRO COMPARATIVO
+
+Los tres artículos científicos están relacionados con el **desarrollo sostenible**, pero abordan diferentes problemáticas. El primer artículo se enfoca en el **acceso equitativo a los servicios de energía**; el segundo, en la importancia del **consumo responsable y la conciencia ambiental**; y el tercero, en la aplicación de **tecnologías IoT para mejorar la eficiencia del riego agrícola**.
+
+En conjunto, los artículos muestran que la sostenibilidad puede abordarse mediante **políticas inclusivas, educación ambiental y soluciones tecnológicas**, buscando un uso más eficiente y responsable de los recursos.
 
 ## TESIS
 
