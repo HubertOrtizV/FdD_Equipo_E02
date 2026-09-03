@@ -115,7 +115,7 @@ Este equipo está pensado para realizar el riego de una manera más eficiente y 
 
 *Figura 2: Sense Home Energy Monitor. Fuente: Tomado de Sense Labs, Inc. [11].*
 
-* **Descripción y funcionamiento:** Monitor de telemetría para tableros eléctricos que muestrea corriente a 1 MHz y usa *machine learning* (NILM) para identificar el consumo específico de cada aparato, detectando consumos fantasma y pérdidas energéticas [11].
+* **Descripción y funcionamiento:** Dispositivo de monitoreo para paneles eléctricos que realiza mediciones de corriente a una frecuencia de 1 MHz. Mediante algoritmos de aprendizaje automático basados en desagregación energética (NILM), reconoce la firma eléctrica de cada electrodoméstico de forma individual, facilitando la detección de cargas en espera (vampire power) y fugas de energía. [11].
 * **Sensores e instrumentación:**
   * 2 sensores de corriente de núcleo dividido (*split-core CT*) basados en inducción magnética hasta 200 A [11].
   * Sensores de captación y referencia de voltaje de fase (120 V / 240 V) con tasa de muestreo analógico-digital a 1 MHz [11].
