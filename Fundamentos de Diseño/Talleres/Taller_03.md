@@ -10,9 +10,9 @@ El estudio analiza las diferencias entre los hogares mexicanos respecto al acces
 
 El artículo analiza la importancia del consumo responsable para la protección del medio ambiente. Mediante una revisión sistemática de 34 estudios, destaca que la educación y la conciencia ambiental ayudan a promover hábitos sostenibles, reducir la contaminación y fomentar decisiones de consumo más éticas. Concluye que la participación de personas, empresas e instituciones es fundamental para lograr un desarrollo sostenible **(2)**.
 
-### 3. Aprovechamiento de la energía cinética generada al caminar y correr mediante un sistema de recolección de energía por levitación magnética
+### 3. Agricultura inteligente mediante IoT para riego automatizado, eficiencia hídrica y energética.
 
-El artículo estudia un dispositivo de levitación magnética que transforma el movimiento al caminar o correr en energía eléctrica. El movimiento hace oscilar un imán dentro de una bobina, generando electricidad. Se comprobó que reducir la fricción mediante una guía y Teflón mejora el rendimiento. En las pruebas con personas, produjo aproximadamente 71 W al caminar a 3 mph y 342 W al correr a 6 mph. La generación depende principalmente de la frecuencia de resonancia, la aceleración, el movimiento de cada persona y el ángulo del dispositivo **(3)**.
+Este estudio presenta un innovador sistema de agricultura inteligente que integra tecnologías de Internet de las Cosas (IoT), algoritmos predictivos y mecanismos de control automatizados para optimizar el riego y mejorar la eficiencia de los recursos. La solución propuesta aprovecha sensores de humedad, temperatura y humedad del suelo conectados a un microcontrolador basado en Arduino para automatizar el riego en función de datos en tiempo real.  **(3)**.
 
 ---
 
