@@ -35,16 +35,59 @@ Esta tesis propone la implementación de un sistema de submedición eléctrica b
 ## PATENTES
 
 ### 1. Sistema y método para optimizar la eficiencia energética del sistema del edificio para el nivel objetivo de consumo energético
+<p align="center">
+  <img src="/Recursos/Imágenes/patente1.jpg" width="500">
+</p>
+
+<p align="center">
+  <em>Figura 1. Sistema para la optimización de la eficiencia energética en edificios.</em><br>
+  <strong>Fuente:</strong> Adaptado de la patente WO1997009869A1 (7).
+</p>
+
 
 Este sistema busca disminuir el consumo de energía dentro de un edificio, principalmente en la iluminación. Para lograrlo, distribuye la energía disponible entre las diferentes fuentes de luz considerando cuánto necesita cada ambiente y la prioridad que tiene. Además, mediante un controlador se puede regular automáticamente la iluminación, evitando consumos innecesarios sin dejar de cubrir las necesidades de cada espacio **(7)**.
 
 ### 2. Método estadístico para el consumo agrícola de agua basado en la conversión de electricidad a agua
+<p align="center">
+  <img src="/Recursos/Imágenes/patente 2.png" width="500">
+</p>
+
+<p align="center">
+  <em>Figura 2. Método para determinar el consumo agrícola de agua a partir del consumo eléctrico.</em><br>
+  <strong>Fuente:</strong> Adaptado de la patente NL2040129A (8).
+</p>
 
 Este método permite conocer aproximadamente cuánta agua se utiliza durante el riego agrícola tomando como referencia el consumo eléctrico del sistema. También considera algunos factores ambientales que pueden influir en la cantidad de agua utilizada. Los datos obtenidos se pueden enviar y analizar en tiempo real, ayudando a controlar mejor el riego y a utilizar únicamente el agua necesaria, reduciendo así el desperdicio de este recurso **(8)**.
 
 ### 3. Equipos de riego ensamblados y ahorradores de energía de ingeniería hidráulica
+<p align="center">
+  <img src="/Recursos/Imágenes/patente3.png" width="500">
+</p>
+
+<p align="center">
+  <em>Figura 3. Equipo de riego ensamblado y ahorrador de energía.</em><br>
+  <strong>Fuente:</strong> Patente de equipo de riego ensamblado y ahorrador de energía (9).
+</p>
 
 Este equipo está pensado para realizar el riego de una manera más eficiente y con un menor consumo de recursos. Una de sus principales características es que permite controlar la temperatura y la presión del agua dependiendo de las condiciones del ambiente. De esta manera, se busca evitar daños en las plantas por utilizar agua a una temperatura inadecuada y, al mismo tiempo, aprovechar mejor tanto el agua como la energía utilizada durante el riego **(9)**.
+
+### Cuadro comparativo de patentes
+
+| Patente | ¿Qué tema? | ¿Qué aporta? | Variables | Rangos / Valores |
+|---|---|---|---|---|
+| **Sistema y método para optimizar la eficiencia energética del sistema del edificio para el nivel objetivo de consumo energético (7)** | Eficiencia energética en edificios y sistemas de iluminación. | Permite distribuir y controlar la energía disponible entre diferentes dispositivos de iluminación, buscando reducir el consumo sin afectar las necesidades de cada ambiente. | Consumo de energía, nivel de iluminación, potencia, prioridad del ambiente. | Consumo energético (kWh), potencia (W), nivel de iluminación (lux). |
+| **Método estadístico para el consumo agrícola de agua basado en la conversión de electricidad a agua (8)** | Uso eficiente del agua y energía en sistemas de riego agrícola. | Permite estimar el consumo de agua a partir del consumo eléctrico del sistema de riego y considerar factores ambientales para mejorar la gestión del recurso hídrico. | Consumo eléctrico, volumen de agua, caudal, tiempo de riego, factores ambientales. | Energía (kWh), volumen (L o m³), caudal (L/min o m³/h), tiempo (min/h). |
+| **Equipos de riego ensamblados y ahorradores de energía de ingeniería hidráulica (9)** | Riego eficiente mediante el control de las condiciones del agua. | Permite controlar la temperatura y presión del agua utilizada durante el riego para mejorar su eficiencia y reducir posibles daños en las plantas. | Temperatura del agua, presión del agua, temperatura ambiental, caudal. | Temperatura (°C), presión (kPa/bar), caudal (L/min). |
+
+### Relación de las patentes con la problemática
+
+**Problemática:** Uso ineficiente de agua y energía en sistemas de riego debido a la falta de monitoreo y control de las variables que intervienen durante su funcionamiento.
+
+| Patente | ¿Cómo se relaciona con la problemática? | Aporte principal |
+|---|---|---|
+| **Sistema y método para optimizar la eficiencia energética del sistema del edificio (7)** | Aborda el consumo innecesario de energía mediante el control y distribución de la energía según las necesidades del sistema. | **Optimización del consumo energético.** |
+| **Método estadístico para el consumo agrícola de agua basado en la conversión de electricidad a agua (8)** | Permite relacionar el consumo eléctrico con la cantidad de agua utilizada durante el riego y considera factores ambientales. | **Monitoreo del consumo de agua y energía.** |
+| **Equipos de riego ensamblados y ahorradores de energía de ingeniería hidráulica (9)** | Busca mejorar el riego mediante el control de variables como la temperatura y presión del agua. | **Control de las condiciones del riego.** |
 
 ---
 
