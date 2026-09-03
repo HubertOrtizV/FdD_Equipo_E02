@@ -23,7 +23,7 @@ Este estudio presenta un innovador sistema de agricultura inteligente que integr
 
 ---
 
-# CUADRO COMPARATIVO DE ARTÍCULOS CIENTÍFICOS
+### CUADRO COMPARATIVO DE LOS ARTÍCULOS CIENTÍFICOS
 
 | Artículo científico | ¿Qué tema? | ¿Qué aporta? | Variables | Rangos / Valores |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ Esta tesis propone la implementación de un sistema de submedición eléctrica b
 
 ---
 
-### Cuadro comparativo de tesis
+### Cuadro comparativo de las tesis
 | N.° | Referencia | Tipo de documento | ¿En qué aporta a nuestro proyecto? | Información clave e importante | Valores de medición / variables |
 | :---: | :--- | :--- | :--- | :--- | :--- |
 | **1** | Salazar Toledo, Arturo Italo. *Eficiencia hídrica en el mantenimiento de áreas verdes públicas en zonas urbanas desérticas: el caso del distrito de San Borja, Lima* [4] | Tesis | Aporta información sobre cómo mejorar el uso del agua en el riego de áreas verdes urbanas de Lima, sirviendo como antecedente para nuestro sistema de riego automatizado y de monitoreo de humedad. | Analiza el aprovechamiento del agua utilizada para el riego de áreas verdes en San Borja. Considera las falencias en el manejo del recurso hídrico, los métodos de riego, la cobertura vegetal y la sostenibilidad urbana. | Consumo/uso de agua, eficiencia hídrica, métodos de riego, cobertura vegetal, área verde, frecuencia de riego. |
