@@ -16,6 +16,7 @@ Este documento recopila el análisis de patentes y modelos de utilidad relevante
   * **Detección:** Sensor de humedad fijado lateralmente en la cavidad interna en contacto directo con el sustrato.
   * **Actuación y bombeo:** Bomba de succión conectada mediante acople de 3 vías y tubo guía a un cabezal pulverizador superior para distribución homogénea.
   * **Control:** Controlador lógico programable (PLC) montado en la cara lateral que procesa la lectura de sequedad y comanda el encendido/apagado de la bomba.
+* **Imagenen**
 
 ---
 
