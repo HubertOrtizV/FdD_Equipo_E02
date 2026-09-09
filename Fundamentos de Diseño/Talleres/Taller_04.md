@@ -22,15 +22,15 @@ Este documento recopila el análisis de patentes y modelos de utilidad relevante
 
 ## Patente 2 
 
-* **Título:** *[Completar: Título oficial de la patente o modelo de utilidad]*
-* **Código:** *[Completar: Código de publicación, ej. USXXXXXXXB2 / EPXXXXXXXA1]*
+* **Título:** Intelligent watering flowerpot based on Internet of Things (Red de cosas inteligencia regando maceta)
+* **Código:** CN205179867U
 * **¿Qué aporta?:** 
-  * *[Completar: ¿Qué problema técnico resuelve y qué ventaja aporta frente a soluciones tradicionales?]*
+  * Resuelve la falta de automatización y la necesidad de supervisión humana constante en el cuidado de macetas domésticas mediante el monitoreo remoto por Internet de las Cosas. Aporta una solución de bajo costo para regar de manera precisa y oportuna según los requerimientos biológicos de la planta, permitiendo al usuario monitorear el estado del sustrato y activar el riego a distancia desde una plataforma o dispositivo inteligente.
 * **Características / Valores:**
-  * **Estructura / Material:** *[Completar: Materiales, cámaras, dimensiones o acoples]*
-  * **Sensores / Detección:** *[Completar: Sensores empleados (humedad, nivel, temperatura, etc.)]*
-  * **Actuadores / Mecanismos:** *[Completar: Bombas, servomotores, válvulas o capilaridad]*
-  * **Unidad de procesamiento:** *[Completar: Microcontrolador, placa de desarrollo o circuito de control]*
+  * **Estructura / Material:** Cuerpo de maceta estructural con cavidad de plantación superior y reservorio de almacenamiento hídrico en la base; incorpora canales de distribución de líquido internos y ranuras de montaje para alojar la circuitería sin invadir el volumen radicular.
+  * **Sensores / Detección:** Sensor de humedad del suelo insertado en el sustrato para medir el contenido hídrico y sensor de nivel de agua para supervisar la reserva del depósito.
+  * **Actuadores / Mecanismos:** Microbomba de agua sumergible de bajo voltaje conectada a tuberías de conducción y boquillas de microgoteo para dosificación localizada.
+  * **Unidad de procesamiento:** Módulo de control microcontrolado con interfaz de comunicación inalámbrica (transceptor de red/IoT) que recopila las lecturas de los sensores, transmite los datos a la red y comanda la etapa de potencia de la bomba.
 
 ---
 
