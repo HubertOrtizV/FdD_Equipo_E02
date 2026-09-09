@@ -17,6 +17,7 @@ Este documento recopila el análisis de patentes y modelos de utilidad relevante
   * **Actuación y bombeo:** Bomba de succión conectada mediante acople de 3 vías y tubo guía a un cabezal pulverizador superior para distribución homogénea.
   * **Control:** Controlador lógico programable (PLC) montado en la cara lateral que procesa la lectura de sequedad y comanda el encendido/apagado de la bomba.
 * **Imagenen**
+<img width="300" height="300" alt="maceta_imagen" src="https://github.com/user-attachments/assets/b6d5389a-283f-4b5b-80c0-d21411675224" />
 
 ---
 
