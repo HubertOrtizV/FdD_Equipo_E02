@@ -36,40 +36,27 @@ Este documento recopila el análisis de patentes y modelos de utilidad relevante
 
 ---
 
-## PATENTE 3
+# Patente 3
 
-### 3.1 TÍTULO
+- **Título:** Internet of Things Based Smart Irrigation System for Water Resource Management  
+  *(Sistema de riego inteligente basado en Internet de las Cosas para la gestión de los recursos hídricos)*
 
-**Sistema portátil basado en IoT para riego y fertilización automáticos**
+- **Código:** AU2021104402A4
 
-### 3.2 CÓDIGO
+- **¿Qué aporta?**
+  - Resuelve la necesidad de mejorar el control y la gestión del agua utilizada en el riego agrícola mediante la aplicación de tecnologías de Internet de las Cosas (IoT).
+  - Permite monitorear las condiciones relacionadas con el cultivo y utilizar la información obtenida para realizar un riego más preciso y adecuado.
+  - Aporta una solución inteligente que busca reducir el desperdicio de agua, disminuir el riego excesivo o insuficiente y reducir la dependencia de la supervisión manual.
 
-**AU2021103425A4**
+- **Características / Valores:**
+  - **Tecnología / Sistema:** Sistema de riego agrícola inteligente basado en Internet de las Cosas (IoT), orientado al monitoreo y control del riego.
+  - **Sensores / Detección:** Utiliza dispositivos de detección para obtener información sobre las condiciones del cultivo y los parámetros relacionados con la necesidad de agua.
+  - **Control / Mecanismos:** Permite controlar el suministro de agua de acuerdo con la información obtenida por el sistema, buscando aplicar el riego cuando sea necesario.
+  - **Unidad de procesamiento / Comunicación:** Emplea una unidad de control y comunicación IoT para recopilar, procesar y transmitir la información obtenida de los dispositivos de monitoreo.
+  - **Objetivo principal:** Optimizar el uso del agua en actividades agrícolas mediante monitoreo y control inteligente.
+  - **Recurso optimizado:** Agua.
+ **IMAGEN**
+ <img width="613" height="595" alt="Captura de pantalla 2026-09-09 111639" src="https://github.com/user-attachments/assets/064272dd-b2c0-49f0-9c58-2f44149652b0" />
 
-### 1.3 ¿QUÉ APORTA?
-
-Esta patente propone un sistema portátil que automatiza el riego y la fertilización mediante tecnología IoT. Utiliza sensores para medir las condiciones del suelo y del ambiente, permitiendo controlar el suministro de agua según las necesidades detectadas. También permite transmitir y almacenar los datos obtenidos para realizar el monitoreo del cultivo. Con este sistema se busca utilizar el agua de manera más controlada y reducir el riego innecesario.
-
-### 3.4 CARACTERÍSTICAS / VALORES
-
-| Característica | Valor / Descripción |
-|---|---|
-| **Humedad del suelo** | Medida mediante sensor y comparada con un valor límite configurable |
-| **Temperatura** | Monitoreada mediante sensores |
-| **Humedad ambiental** | Monitoreada por el sistema |
-| **pH del suelo** | Escala de 1 a 14 |
-| **pH para la mayoría de plantas** | Aproximadamente entre 5 y 7 |
-| **Nivel de agua** | Sensor para detectar el nivel del tanque |
-| **Radiación** | Considerada como variable ambiental |
-| **Velocidad del aire** | Considerada como parámetro de entrada |
-| **Comunicación** | ZigBee y Wi-Fi |
-| **Módulo Wi-Fi** | ESP8266 |
-| **Sistema de control** | Red neuronal artificial (ANN) |
-| **Accionamiento** | Bomba/motor y válvulas con control ON/OFF |
-| **Riego** | Microirrigación automatizada |
-| **Fertilización** | Sistema de fertirrigación integrado |
-| **Monitoreo** | Almacenamiento y transmisión de los datos obtenidos |
-**IMAGEN**
-<img width="541" height="387" alt="Captura de pantalla 2026-09-09 110524" src="https://github.com/user-attachments/assets/043e8e2b-9579-4f1f-8b54-7c6c2e0eb1e3" />
 
 
