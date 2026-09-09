@@ -31,6 +31,7 @@ Este documento recopila el análisis de patentes y modelos de utilidad relevante
   * **Sensores / Detección:** Sensor de humedad del suelo insertado en el sustrato para medir el contenido hídrico y sensor de nivel de agua para supervisar la reserva del depósito.
   * **Actuadores / Mecanismos:** Microbomba de agua sumergible de bajo voltaje conectada a tuberías de conducción y boquillas de microgoteo para dosificación localizada.
   * **Unidad de procesamiento:** Módulo de control microcontrolado con interfaz de comunicación inalámbrica (transceptor de red/IoT) que recopila las lecturas de los sensores, transmite los datos a la red y comanda la etapa de potencia de la bomba.
+<img width="1107" height="552" alt="imagen_de_patente" src="https://github.com/user-attachments/assets/a550c71b-7dd4-4262-acad-fa23c19c153e" />
 
 ---
 
