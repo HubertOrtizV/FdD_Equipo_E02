@@ -69,3 +69,7 @@ Esta patente propone un sistema portátil que automatiza el riego y la fertiliza
 | **Riego** | Microirrigación automatizada |
 | **Fertilización** | Sistema de fertirrigación integrado |
 | **Monitoreo** | Almacenamiento y transmisión de los datos obtenidos |
+**IMAGEN**
+<img width="541" height="387" alt="Captura de pantalla 2026-09-09 110524" src="https://github.com/user-attachments/assets/043e8e2b-9579-4f1f-8b54-7c6c2e0eb1e3" />
+
+
