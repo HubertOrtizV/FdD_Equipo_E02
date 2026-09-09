@@ -36,14 +36,36 @@ Este documento recopila el análisis de patentes y modelos de utilidad relevante
 
 ---
 
-## Patente 3 
+## PATENTE 3
 
-* **Título:** *[Completar: Título oficial de la patente o modelo de utilidad]*
-* **Código:** *[Completar: Código de publicación, ej. CNXXXXXXXU / WOXXXXXXX]*
-* **¿Qué aporta?:** 
-  * *[Completar: ¿Qué problema técnico resuelve y qué ventaja aporta frente a soluciones tradicionales?]*
-* **Características / Valores:**
-  * **Estructura / Material:** *[Completar: Materiales, cámaras, dimensiones o acoples]*
-  * **Sensores / Detección:** *[Completar: Sensores empleados (humedad, nivel, temperatura, etc.)]*
-  * **Actuadores / Mecanismos:** *[Completar: Bombas, servomotores, válvulas o capilaridad]*
-  * **Unidad de procesamiento:** *[Completar: Microcontrolador, placa de desarrollo o circuito de control]*
+### 3.1 TÍTULO
+
+**Sistema portátil basado en IoT para riego y fertilización automáticos**
+
+### 3.2 CÓDIGO
+
+**AU2021103425A4**
+
+### 1.3 ¿QUÉ APORTA?
+
+Esta patente propone un sistema portátil que automatiza el riego y la fertilización mediante tecnología IoT. Utiliza sensores para medir las condiciones del suelo y del ambiente, permitiendo controlar el suministro de agua según las necesidades detectadas. También permite transmitir y almacenar los datos obtenidos para realizar el monitoreo del cultivo. Con este sistema se busca utilizar el agua de manera más controlada y reducir el riego innecesario.
+
+### 3.4 CARACTERÍSTICAS / VALORES
+
+| Característica | Valor / Descripción |
+|---|---|
+| **Humedad del suelo** | Medida mediante sensor y comparada con un valor límite configurable |
+| **Temperatura** | Monitoreada mediante sensores |
+| **Humedad ambiental** | Monitoreada por el sistema |
+| **pH del suelo** | Escala de 1 a 14 |
+| **pH para la mayoría de plantas** | Aproximadamente entre 5 y 7 |
+| **Nivel de agua** | Sensor para detectar el nivel del tanque |
+| **Radiación** | Considerada como variable ambiental |
+| **Velocidad del aire** | Considerada como parámetro de entrada |
+| **Comunicación** | ZigBee y Wi-Fi |
+| **Módulo Wi-Fi** | ESP8266 |
+| **Sistema de control** | Red neuronal artificial (ANN) |
+| **Accionamiento** | Bomba/motor y válvulas con control ON/OFF |
+| **Riego** | Microirrigación automatizada |
+| **Fertilización** | Sistema de fertirrigación integrado |
+| **Monitoreo** | Almacenamiento y transmisión de los datos obtenidos |
