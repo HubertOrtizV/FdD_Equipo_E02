@@ -55,6 +55,7 @@ Este documento recopila el análisis de patentes y modelos de utilidad relevante
   - **Unidad de procesamiento / Comunicación:** Emplea una unidad de control y comunicación IoT para recopilar, procesar y transmitir la información obtenida de los dispositivos de monitoreo.
   - **Objetivo principal:** Optimizar el uso del agua en actividades agrícolas mediante monitoreo y control inteligente.
   - **Recurso optimizado:** Agua.
+
  **IMAGEN**
  <img width="613" height="595" alt="Captura de pantalla 2026-09-09 111639" src="https://github.com/user-attachments/assets/064272dd-b2c0-49f0-9c58-2f44149652b0" />
 
