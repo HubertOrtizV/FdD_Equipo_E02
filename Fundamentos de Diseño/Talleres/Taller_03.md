@@ -23,13 +23,13 @@ Este estudio presenta un innovador transductor electromagnético de recolección
 
 | Aspecto | Artículo 1 | Artículo 2 | Artículo 3 |
 |---|---|---|---|
-| **Enfoque principal** | Acceso y uso de la energía | Consumo responsable y medio ambiente | Agricultura inteligente |
-| **Problema abordado** | Desigualdad en el acceso a los servicios energéticos | Prácticas de consumo que afectan al ambiente | Uso ineficiente del agua y la energía en el riego |
-| **Solución / aporte** | Políticas energéticas sostenibles e inclusivas | Educación y conciencia ambiental | Automatización mediante IoT y sensores |
-| **Tecnología utilizada** | No especificada | No especificada | IoT, sensores y Arduino |
-| **Principales variables** | Electricidad, servicios energéticos y condiciones socioeconómicas | Educación, conciencia, consumo y contaminación | Humedad, temperatura y humedad del suelo |
-| **Resultado esperado** | Mejorar el acceso equitativo a los servicios energéticos | Promover hábitos de consumo sostenibles | Optimizar el riego y reducir el uso innecesario de recursos |
-| **Relación con la sostenibilidad** | Energética y social | Ambiental y social | Hídrica, energética y agrícola |
+| **Enfoque principal** | Acceso y uso de la energía | Consumo responsable y medio ambiente | Generación y recolección de energía cinética limpia. |
+| **Problema abordado** | Desigualdad en el acceso a los servicios energéticos | Prácticas de consumo que afectan al ambiente | Dependencia de baterías desechables y falta de fuentes energéticas autónomas en dispositivos portátiles. |
+| **Solución / aporte** | Políticas energéticas sostenibles e inclusivas | Educación y conciencia ambiental | Recolección de energía de vibraciones humanas mediante transductor por levitación magnética. |
+| **Tecnología utilizada** | No especificada | No especificada | Transductor electromagnético y resonadores magnéticos pasivos. |
+| **Principales variables** | Electricidad, servicios energéticos y condiciones socioeconómicas | Educación, conciencia, consumo y contaminación | Frecuencia de paso, aceleración cinética, amplitud de movimiento y voltaje generado. |
+| **Resultado esperado** | Mejorar el acceso equitativo a los servicios energéticos | Promover hábitos de consumo sostenibles | Obtención de energía eléctrica continua a partir del desplazamiento corporal humano. |
+| **Relación con la sostenibilidad** | Energética y social | Ambiental y social | Energética, eficiencia no primaria y reducción de desechos químicos de baterías|
 ---
 ## 2. TESIS
 
